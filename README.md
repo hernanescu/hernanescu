@@ -1,4 +1,11 @@
-### Hi there 👋
+### ¡Hola! 👋
+
+Soy Hernán Escudero, científico de datos. Soy sociólogo y periodista de formación, y soy un apasionado por la comunicación de y en la ciencia de datos.
+
+- Trabajo como científico de datos en CoreBI Data & Analytics
+- Soy mentor de data science en Acámica
+- Desarrollo Shiny Apps on demand; podés ver algunas de ellas entrando a mi Shiny Hub a través de mi sitio web.
+- ¡Preguntame por cualquier cosa! Si te puedo dar una mano, encantado =)
 
 <!--
 **hernanescu/hernanescu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
